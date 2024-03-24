@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="working_REST_API.MainPage">
+
+    <StackLayout Margin="25" >
+        <Frame BackgroundColor="#F0F4F8" CornerRadius="25" Padding="30" >
+            <StackLayout>
+                <ListView x:Name="usersListView"  RowHeight="60" HeightRequest="200">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <SwipeView>
+                                    <SwipeView.RightItems>
+                                        <SwipeItems>
+                                            <SwipeItem Text="Edit"  Clicked="OnEditClicked" BackgroundColor="#3498DB" Command="{Binding Source={x:Reference Name=usersListView}, Path=BindingContext.EditCommand}" CommandParameter="{Binding .}"/>
+                                            <SwipeItem Text="Delete" Clicked="OnDeleteClicked" BackgroundColor="#E74C3C" Command="{Binding Source={x:Reference Name=usersListView}, Path=BindingContext.DeleteCommand}" CommandParameter="{Binding .}"/>
+                                        </SwipeItems>
+                                    </SwipeView.RightItems>
+                                    <StackLayout Orientation="Horizontal" BackgroundColor="Transparent" >
+                                        <Label Padding="50, 0, 0, 0" Text="{Binding name}" FontSize="20" TextColor="#333333" VerticalOptions="Center" />
+                                    </StackLayout>
+                                </SwipeView>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <Button Text="dodaj użytkownika" Clicked="OnAddClicked" BackgroundColor="#FFFFFF" TextColor="#4C4C4C" FontSize="20" CornerRadius="10" BorderWidth="1" BorderColor="#D9D9D9"/>
+                <Label></Label>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+
+
+
+
+
+</ContentPage>

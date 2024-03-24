@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3NWCMtl76Nrg7zoZRnH7p5YnwFY3G0PZgbiOgYykKRpV2KFgOTXbo8GY2KxkWg9AGm4qL+wcsLZiRAZh/3t23A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bartt\\source\\repos\\working_REST_API\\working_REST_API\\working_REST_API.iOS\\working_REST_API.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bartt\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\bartt\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
+    "C:\\Users\\bartt\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bartt\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\bartt\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

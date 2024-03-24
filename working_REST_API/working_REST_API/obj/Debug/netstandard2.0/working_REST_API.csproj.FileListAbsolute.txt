@@ -1,0 +1,15 @@
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\bin\Debug\netstandard2.0\working_REST_API.deps.json
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\bin\Debug\netstandard2.0\working_REST_API.dll
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\bin\Debug\netstandard2.0\ref\working_REST_API.dll
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\bin\Debug\netstandard2.0\working_REST_API.pdb
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\obj\Debug\netstandard2.0\working_REST_API.csproj.AssemblyReference.cache
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\obj\Debug\netstandard2.0\working_REST_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\obj\Debug\netstandard2.0\working_REST_API.AssemblyInfoInputs.cache
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\obj\Debug\netstandard2.0\working_REST_API.AssemblyInfo.cs
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\obj\Debug\netstandard2.0\working_REST_API.csproj.CoreCompileInputs.cache
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\obj\Debug\netstandard2.0\working_REST_API.dll
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\obj\Debug\netstandard2.0\refint\working_REST_API.dll
+C:\Users\bartt\source\repos\working_REST_API\working_REST_API\working_REST_API\obj\Debug\netstandard2.0\working_REST_API.pdb
